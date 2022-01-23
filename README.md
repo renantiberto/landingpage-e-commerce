@@ -1,1 +1,3 @@
-# landingpage-e-commerce
+# Landingpage-E-commerce
+
+## Página desenvolvida durante um processo seletivo.
